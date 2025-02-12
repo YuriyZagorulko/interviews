@@ -4,7 +4,6 @@
 // each point draws a line to the opposite end of the rectangle.
 // We need to write a function that returns the area of ​​the largest rectangle,
 // formed by dividing the original rectangle by these lines.
-// cobweed orthocutaneous along these lines.
 // Points can only be integers in the range of the width and height of the rectangle,
 // from 1 to (sWidth/sHeigth - 1), in any order, without repetitions.
 // Only rectangles that have not been separated by lines are counted.
