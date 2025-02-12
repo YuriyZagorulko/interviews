@@ -12,6 +12,7 @@
 // у будь-якому порядку,
 // без повторень.
 // Рахуються тільки прямокутники які не були розділені лініями.
+// Link: https://drive.google.com/file/d/1h-M4uHyKHh_KowjLj7yaAtVV6RKqWNMc/view?usp=drive_link
 
 const sWidth = 100;
 const sHeigth = 70;
