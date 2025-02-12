@@ -1,5 +1,5 @@
 // Given a rectangular tree with sides height 70,
-// that width is 100, that two arrays with points
+// width is 100, and two arrays with points
 // on the coordinates of the X axis and Y axis.
 // each point draws a line to the opposite end of the rectangle.
 // We need to write a function that returns the area of ​​the largest rectangle,
